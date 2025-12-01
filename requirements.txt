@@ -1,0 +1,5 @@
+wxPython
+matplotlib
+streamlit
+plotly
+pandas
