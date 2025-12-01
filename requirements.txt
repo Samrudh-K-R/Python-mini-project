@@ -1,4 +1,4 @@
-wxPython
+
 matplotlib
 streamlit
 plotly
